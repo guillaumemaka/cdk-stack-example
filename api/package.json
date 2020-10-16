@@ -1,0 +1,9 @@
+// 20201016140543
+// https://raw.githubusercontent.com/guillaumemaka/screenshot-service/cicd/api-placeholder/package.json
+
+{
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "app": "node bin/habilhome-aws-fargate.js",
+  "app": "npx ts-node bin/habilhome-aws-fargate.ts",
   "context": {
     "@aws-cdk/core:enableStackNameDuplicates": "true",
     "aws-cdk:enableDiffNoFail": "true",
