@@ -24,6 +24,7 @@
     "@aws-cdk/aws-ec2": "1.67.0",
     "@aws-cdk/aws-ecs": "1.67.0",
     "@aws-cdk/aws-ecs-patterns": "1.67.0",
+    "@aws-cdk/aws-iam": "1.68.0",
     "@aws-cdk/aws-route53": "1.67.0",
     "@aws-cdk/aws-s3": "1.67.0",
     "@aws-cdk/aws-ses": "1.68.0",
