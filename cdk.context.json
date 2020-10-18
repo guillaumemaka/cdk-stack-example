@@ -1,0 +1,11 @@
+{
+  "availability-zones:account=650988679566:region=ca-central-1": [
+    "ca-central-1a",
+    "ca-central-1b",
+    "ca-central-1d"
+  ],
+  "hosted-zone:account=650988679566:domainName=habilhome.com:region=ca-central-1": {
+    "Id": "/hostedzone/Z3QN75T8SAWSBR",
+    "Name": "habilhome.com."
+  }
+}
